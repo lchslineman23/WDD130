@@ -2,7 +2,7 @@
 body{font-family: var(--paragraph-font); max-width: 960px; padding: 20px;}
 :root{--primary-color: #173753; --secondary-color: #6DAEDB; --accent1-color: #2892D7; --acent2-color: #1B4353; --heading-font:'Roboto slab', serif; --paragraph-font: 'Roboto slab, serif'; 
 --nav-background-color: #1D70A2; --nav-link-color: #1D70A2 ; --nav-hover-link-color: #1D70A2 ; --nave-hover-bacground-color: #1D70A2;}
-body{font-family:var(--paragraph-font);max-width: 20px; padding: 2px }
+body{font-family:var(--paragraph-font);max-width: 40px; padding: 2px }
 
 h1,h2,h3,h4,h5,h6{font-family: var(--headding-font); color: var(--primary-color )}
 header{padding: 20px; background-color: var(--accent1-color);}
