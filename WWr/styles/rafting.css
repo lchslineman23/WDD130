@@ -1,0 +1,3 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+:root{--primary-color: #173753; --secondary-color: #6DAEDB; --accent1-color: #2892D7; --acent2-color: #1B4353; --heading-font:'Roboto slab', serif; --paragraph-font: 'Roboto slab, serif'; 
+    --nav-background-color: #1D70A2; --nav-link-color: #1D70A2 ; --nav-hover-link-color: #1D70A2 ; --nave-hover-bacground-color: #1D70A2;}
